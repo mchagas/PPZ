@@ -2,7 +2,7 @@
 
 Neste repositório estão disponíveis os material utilizados no curso [Python para Zumbis](http://pingmind.com.br/classes/142/lessons/), do professor Fernando Masanori, como slides, vídeo aulas, exercícios e resoluções (código e explicação).
 
-Para facilitar o entendimento e a sequência do curso, segue o cronograma, conforme disponível na plataforma [Pingmind](http://pingmind.com.br)
+Para facilitar o entendimento e a sequência do curso, segue o cronograma, conforme disponível na plataforma [Pingmind](http://pingmind.com.br). É possível acessar os vídeos através do YouTube também, existe uma [lista](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) com todos os vídeos já organizado na ordem conforme o cronograma.
 
 ## Cronograma
 1. Começando com o básico
